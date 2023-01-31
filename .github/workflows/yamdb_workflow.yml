@@ -31,7 +31,6 @@ jobs:
     steps:
       - name: Go to work directory
         run: |
-          pwd
           ls
           cd ./api_yamdb/
 
