@@ -29,11 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: tests
     steps:
-      - name: Go to work directory
-        run: |
-          ls
-          cd ./api_yamdb/
-
+    
       - name: Check out the repo
         uses: actions/checkout@v2
 
