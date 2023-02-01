@@ -1,4 +1,4 @@
-### Спринт 16: CI и CD для проекта api_yamdb  ![example workflow](https://github.com/ts-danil/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+### ![example workflow](https://github.com/ts-danil/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg) Спринт 16: CI и CD для проекта api_yamdb  
 
 ### Описание
 ```
